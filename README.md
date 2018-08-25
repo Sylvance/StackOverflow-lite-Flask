@@ -1,6 +1,9 @@
 # StackOverflow-lite
 StackOverflow-lite is a platform where people can ask questions and provide answers.
 
+## Heroku deployment
+- Check it out [here](https://so-flask-retplus-api.herokuapp.com/)
+
 ## Required Features
 - Users can create an account and log in.
 - Users can post questions.
