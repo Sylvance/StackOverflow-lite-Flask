@@ -177,7 +177,3 @@ class Answer(Resource):
     def put(self, question_id, answer_id):
         '''Update a answer given its identifier'''
         return answer_dao.update_answer(question_id, answer_id, api.payload)
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
