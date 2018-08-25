@@ -9,6 +9,7 @@ StackOverflow-lite is a platform where people can ask questions and provide answ
 - Users can view the answers to questions.
 - Users can accept an answer out of all the answers to his/her question as the preferred answer. 
 
+
 ## Optional Features
 - Users can upvote or downvote an answer.
 - Users can comment on an answer.
